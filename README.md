@@ -19,7 +19,7 @@
   ## Contact-Me
   * Name - Asuanti Kyree
   * Email - lilboyblue207@gmail.com
-  * Github - [https://github.com/KyreeJ/Mobile-Library?tab=readme-ov-file#usage]
+  * Github - [https://github.com/KyreeJ/Mobile-Library]
   ## Contributors
   TA sasha peters , Dan muller , Bootcamp coding UCF
   ## testing
